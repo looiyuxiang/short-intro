@@ -64,7 +64,8 @@ I'm currently learning and working with:
 - 🏅 **Cisco AI Hackathon 2024** - **5th Place** 🥉  
 - 🏸 **SUSKOM Mixed Doubles (Badminton)** - **Semifinalist** 🏆  
 - 🌍 **Earth Explorer Competition** - **Honorable Mention (Finalist)** 🏅  
-- 🏅 **ICEFI** - **Bronze Medal** 🥉  
+- 🏅 **ICEFI** - **Bronze Medal** 🥉
+- 👑 **KMP Fashion King 23/24** – *Majlis Penutupan Ambang Kemerdekaan*
 
 ---
 
