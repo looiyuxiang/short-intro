@@ -79,8 +79,9 @@ I'm currently learning and working with:
 ## 🎮 Hobbies & Interests  
 - 🏸 **Badminton** - Love smashing shots on the court!  
 - 🎮 **Gaming** - Enjoying strategic and competitive games!  
-- 🧩 **Tech & Innovation** - Passionate about exploring new technologies!  
-
+- 🧩 **Tech & Innovation** - Passionate about exploring new technologies!
+  
+![Image](https://github.com/user-attachments/assets/87c2b8d9-a875-415b-81b5-295c4dfcbea5)
 ---
 
 ## 🌐 Connect with Me 💬  
