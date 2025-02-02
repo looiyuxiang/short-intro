@@ -53,6 +53,8 @@ I'm currently learning and working with:
 
 </p>
 
+![Image](https://github.com/user-attachments/assets/f3b4c427-d770-450d-8236-991848d672fe)
+
 ---
 
 ## 🏆 Achievements 🎖️  
