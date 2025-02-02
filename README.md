@@ -18,6 +18,8 @@ Curious about my journey, skills, and achievements? Keep scrolling—you might f
 - 🌱 **Currently Learning:** HTML, CSS, JavaScript, C++, Python, Java  
 - 🤝 **Open to Collaboration on Exciting Projects!**  
 
+![Image](https://github.com/user-attachments/assets/015a697c-907f-4246-8486-275e25ca5485)
+
 ---
 
 ## 🛠 Skills & Technologies 🚀  
@@ -84,6 +86,7 @@ I'm currently learning and working with:
 - 🧩 **Tech & Innovation** - Passionate about exploring new technologies!
   
 ![Image](https://github.com/user-attachments/assets/87c2b8d9-a875-415b-81b5-295c4dfcbea5)
+
 ---
 
 ## 🌐 Connect with Me 💬  
