@@ -18,7 +18,8 @@ Curious about my journey, skills, and achievements? Keep scrolling—you might f
 - 🌱 **Currently Learning:** HTML, CSS, JavaScript, C++, Python, Java  
 - 🤝 **Open to Collaboration on Exciting Projects!**  
 
-![Image](https://github.com/user-attachments/assets/015a697c-907f-4246-8486-275e25ca5485)
+
+<img src="https://github.com/user-attachments/assets/015a697c-907f-4246-8486-275e25ca5485" alt="Image" width="500" height="300">
 
 ---
 
